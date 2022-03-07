@@ -5,6 +5,8 @@ const concatenateStrings = (a, b) => {
   return a.concat(b);
 };
 
+//Autor
+
 // function concatenateStrings(a, b) {
 //   return a.indexOf(b) === -1 ? a + b : b + a
 // }

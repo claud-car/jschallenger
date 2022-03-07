@@ -9,6 +9,8 @@ const insertCharacters = (a, b) => {
   return str;
 };
 
+//Autor
+
 // function myFunction(a, b) {
 //   let result = [];
 //   let rest = a;

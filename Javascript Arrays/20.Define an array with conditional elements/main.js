@@ -2,6 +2,8 @@ const arrayConditional = (arr, num) => {
   return [...(num > 5 ? [num] : [0]), ...arr];
 };
 
+//Autor
+
 // function arrayConditional(arr, num) {
 //   arr.unshift(num < 6 ? 0 : num)
 //   return arr

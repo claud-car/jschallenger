@@ -4,5 +4,7 @@ function compareNumbers(a, b) {
   }
   return false;
 }
-//solution
+
+//Autor
+
 //return a === b;

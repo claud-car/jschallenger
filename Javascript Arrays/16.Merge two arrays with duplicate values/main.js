@@ -5,7 +5,8 @@ const mergeArrayDuplicate = (a, b) => {
   });
   return array.sort((a, b) => a - b);
 };
-//
+
+//Autor
 
 // function myFunction(a, b) {
 //   return [...new Set([...a, ...b])].sort((x, y) => x - y);

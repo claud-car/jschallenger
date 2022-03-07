@@ -4,6 +4,8 @@ function splitNumber(a) {
   return newArray;
 }
 
+//Autor
+
 // function myFunction( a ) {
 //   const string = a + '';
 //   const strings = string.split('');

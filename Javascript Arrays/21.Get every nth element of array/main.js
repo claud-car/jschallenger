@@ -8,6 +8,8 @@ const getNthElement = (a, n) => {
 
 console.log(getNthElement([10, 9, 8, 7, 6, 5, 4, 3, 2, 1], 5));
 
+//Autor
+
 // function myFunction(a, n) {
 //   let rest = [...a];
 //   let result = [];

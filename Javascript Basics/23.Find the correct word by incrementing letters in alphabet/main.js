@@ -6,6 +6,8 @@ function incrementLetters(str) {
 }
 console.log(incrementLetters("aaaba"));
 
+//Autor
+
 // function myFunction(str) {
 //   const arr = [...str];
 //   const correctedArray = arr.map(e => String.fromCharCode(e.charCodeAt()+1));

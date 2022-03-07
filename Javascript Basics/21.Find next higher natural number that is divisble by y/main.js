@@ -21,6 +21,8 @@ const nextDivisibleNumber = (x, y) => {
 
 console.log(nextDivisibleNumber(-5, 7));
 
+//Autor
+
 // function myFunction(x, y) {
 //   while (x % y !== 0) x++;
 //   return x;

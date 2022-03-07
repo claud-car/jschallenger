@@ -4,6 +4,8 @@ const sumUpSpecific = (a, b) => {
 
 //console.log(sumUpSpecific([1, 2, 3, 4, 5, 6, 7], 2))
 
+//Autor
+
 // function myFunction(a, b) {
 //   return a.reduce((sum, cur) => {
 //     if (cur > b) return sum + cur;

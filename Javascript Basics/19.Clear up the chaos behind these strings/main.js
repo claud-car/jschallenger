@@ -5,6 +5,8 @@ const letterChaos = (a, b) => {
   return first.concat(second);
 };
 
+//Autor
+
 // function myFunction(a, b) {
 //   const func = x => x.replace('%','');
 //   const first = func(a);
